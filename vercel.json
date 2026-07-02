@@ -1,0 +1,6 @@
+{
+  "functions": {
+    "app/api/generate/route.ts": { "maxDuration": 30 },
+    "app/api/ml-generate/route.ts": { "maxDuration": 30 }
+  }
+}
